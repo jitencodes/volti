@@ -1,5 +1,6 @@
-<div align="center">
-   ![GitHub repo size](https://img.shields.io/github/repo-size/jitencodes/volti)
+<div align="center" widtyh="100%">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/jitencodes/volti)
   [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jitencodes/)
   [![Twitter Follow](https://img.shields.io/badge/Twitter-0077B5?style=social&logo=Twitter&logoColor=blue)](https://twitter.com/intent/follow?screen_name=jitencodes/)
 
