@@ -1,10 +1,8 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/jitencodes/volti)
-  ![GitHub stars](https://img.shields.io/github/stars/jitencodes/volti?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/jitencodes/volti?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/jitencodes?style=social)](https://twitter.com/intent/follow?screen_name=jitencodes)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/EBS4Cl0IK2Q?style=social)](https://youtu.be/EBS4Cl0IK2Q)
+   ![GitHub repo size](https://img.shields.io/github/repo-size/jitencodes/volti)
+  [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jitencodes/)
+  [![Twitter Follow](https://img.shields.io/badge/Twitter-0077B5?style=social&logo=Twitter&logoColor=blue)](https://twitter.com/intent/follow?screen_name=jitencodes/)
+
 
   <br />
   <br />
@@ -45,10 +43,3 @@ Windows:
 git clone https://github.com/jitencodes/volti.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/jitencodes).
-
-### License
-
-This project is **free to use** and does not contains any license.
